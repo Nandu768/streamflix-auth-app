@@ -1,1 +1,1 @@
-streamlit\npython-dotenv
+streamlit python-dotenv
